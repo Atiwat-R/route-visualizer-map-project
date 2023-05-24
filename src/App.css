@@ -1,0 +1,42 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+}
+
+.map-container {
+  height: 100%;
+  width: 100%;
+}
+
+.box-container {
+  width: 500px;
+  border-radius: .5em;
+  /* border: 5px solid rgb(111,41,97); */
+  padding: 10px;
+}
+
+.box-item {
+  width: 200px;
+  padding: 10px;
+  margin: auto;
+  background-color: rgba(0,128,255,.3);
+  border: 2px solid rgba(255,255,255, 1);
+  display: inline-block;
+  vertical-align: middle
+}
+
+.form-container {
+  text-align: right;
+  width: 500px;
+  border-radius: .5em;
+  /* border: 5px solid rgb(111,41,97); */
+  padding: 10px;
+}
+
+.horizontal-flexbox-container {
+  display: flex;
+  flex-direction: row;
+}
+
+
+/* https://www.smashingmagazine.com/2019/03/css-alignment/ */

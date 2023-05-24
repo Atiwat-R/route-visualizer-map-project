@@ -1,0 +1,56 @@
+For testing:
+
+Kasetsart University
+13.8476
+100.5696
+
+Iconsiam
+13.7264
+100.5093
+
+Chiangmai
+18.7883
+98.9853
+
+Chulalongkorn University
+13.7383
+100.5325
+
+Thamluang Khunnam Nangnon National Park
+20.3813
+99.8674
+
+Pattaya Beach
+12.9379
+100.8828
+
+Ko Samui
+9.5120
+100.0136
+
+Garden By the Bay (Singapore)
+1.2816
+103.8636
+
+Versailles (France)
+48.8014
+2.1301
+
+Shenzhen Tencent Binhai Building (China)
+22.5228
+113.9348
+
+Cape Town (South Africa)
+-33.9249
+18.4241
+
+Nairobi (Kenya)
+-1.2921
+36.8219
+
+???
+13.8476
+100.5696
+-
+49.7462
+100.5347
